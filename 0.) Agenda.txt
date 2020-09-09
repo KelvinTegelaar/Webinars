@@ -1,0 +1,13 @@
+ - Introduction
+ - Repeat of previous webinar for items I received most questions about
+ - Introduction into APIs, using Shodan as an example.
+ - Introduction into Monitoring, using Windows Stability Index as a example
+ - Introduction into creating objects
+ - Q&A
+
+
+
+ Information to contact me: 
+ Kelvin@cyberdrain.com / Kelvin@limenetworks.nl
+ Twitter: @KelvinTegelaar
+ Github: github.com/KelvinTegelaar (Scripts will be published here.)
